@@ -19,5 +19,11 @@ and dual metrics.
 - Comparison of attacking and defensive contributions across positions
 - Analysis of player impact relative to appearances and minutes played
 
-## 🛠 Tools Used
+## Tools Used
 - Microsoft Excel
+
+## Dashboard Preview
+
+### Overall Dashboard
+![Overall Dashboard](screenshots/overview.png)
+
