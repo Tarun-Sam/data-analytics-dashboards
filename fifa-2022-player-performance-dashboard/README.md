@@ -25,5 +25,6 @@ and dual metrics.
 ## Dashboard Preview
 
 ### Overall Dashboard
-![Overall Dashboard](screenshots/overview.png)
+<img width="1875" height="707" alt="Screenshot 2026-01-21 214710" src="https://github.com/user-attachments/assets/dedbc471-1f78-4e71-a966-ae5e94fc4c49" />
+
 
